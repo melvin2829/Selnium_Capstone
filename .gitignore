@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Test reports
+reports/
+*.html
+
+# Excel test data (optional if sensitive)
+data/*.xlsx
